@@ -19,13 +19,8 @@ public class ScheduledConfiguration {
     @Autowired
     private SayHelloService sayHelloService;
 
-    /*@Scheduled(cron = "0/2 * * * * ?")
-    public void sayHello(){
-        sayHelloService.sayHello();
-    }*/
-
     @Scheduled(cron = "0/2 * * * * ?")
-    public void loveYou(){
+    public void sayHello(){
         sayHelloService.sayHello();
     }
 }
