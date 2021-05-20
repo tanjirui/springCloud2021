@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50e1f1b6-1c0b-410b-b79e-bcb696958021" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/springboot-newschedule/src/main/java/com/tjr/springboot/config/ScheduledConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-newschedule/src/main/java/com/tjr/springboot/config/ScheduledConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-newschedule/src/main/java/com/tjr/springboot/service/SayHelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-newschedule/src/main/java/com/tjr/springboot/service/SayHelloService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-newschedule/target/classes/com/tjr/springboot/config/ScheduledConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-newschedule/target/classes/com/tjr/springboot/config/ScheduledConfiguration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-newschedule/target/classes/com/tjr/springboot/service/SayHelloService.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-newschedule/target/classes/com/tjr/springboot/service/SayHelloService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-common/target/cloud-api-common-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-common/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -302,7 +303,7 @@
       <workItem from="1615098228502" duration="9000" />
       <workItem from="1619485001903" duration="1473000" />
       <workItem from="1619751059889" duration="650000" />
-      <workItem from="1621496307059" duration="636000" />
+      <workItem from="1621496307059" duration="1462000" />
     </task>
     <servers />
   </component>
