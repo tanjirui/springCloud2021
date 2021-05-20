@@ -28,4 +28,9 @@ public class ScheduledConfiguration {
     public void loveYou(){
         sayHelloService.loveYou();
     }
+
+    @Scheduled(cron = "0/2 * * * * ?")
+    public void likeYou(){
+        sayHelloService.likeYou();
+    }
 }
