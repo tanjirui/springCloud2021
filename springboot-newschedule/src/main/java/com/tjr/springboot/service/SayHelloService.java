@@ -22,4 +22,8 @@ public class SayHelloService {
     public void likeYou(){
         System.out.println("I Like You");
     }
+
+    public void happy520(){
+        System.out.println("520,我爱你");
+    }
 }
