@@ -23,4 +23,9 @@ public class ScheduledConfiguration {
     public void sayHello(){
         sayHelloService.sayHello();
     }
+
+    @Scheduled(cron = "0/2 * * * * ?")
+    public void loveYou(){
+        sayHelloService.loveYou();
+    }
 }

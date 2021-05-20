@@ -8,11 +8,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cloud-consumer-order80" />
+        <module name="cloud-config-client-3355" />
         <module name="cloud-provider-hystrix-payment8001" />
         <module name="springboot-quartz" />
         <module name="cloud-eureka-server7002" />
         <module name="cloud-eureka-server7001" />
-        <module name="cloud-providerconsul-payment8006" />
         <module name="cloud-consumerconsul-order80" />
         <module name="cloud-provider-payment8002" />
         <module name="cloud-provider-payment8001" />
@@ -22,7 +22,7 @@
         <module name="springboot-newschedule" />
         <module name="cloud-api-common" />
         <module name="springboot-RestTemplate" />
-        <module name="cloud-config-client-3355" />
+        <module name="cloud-providerconsul-payment8006" />
         <module name="microservicecloud-config-3344" />
         <module name="cloud-gateway-gateway9527" />
         <module name="cloud-consumer-hystrix-dashboard9001" />

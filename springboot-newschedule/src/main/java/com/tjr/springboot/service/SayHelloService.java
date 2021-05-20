@@ -14,4 +14,8 @@ public class SayHelloService {
     public void sayHello(){
         System.out.println("Hello"+new Date());
     }
+
+    public void loveYou(){
+        System.out.println("I Love You");
+    }
 }
