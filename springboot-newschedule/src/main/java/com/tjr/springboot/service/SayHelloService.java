@@ -18,4 +18,8 @@ public class SayHelloService {
     public void loveYou(){
         System.out.println("I Love You");
     }
+
+    public void likeYou(){
+        System.out.println("I Like You");
+    }
 }
