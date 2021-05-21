@@ -1,5 +1,6 @@
 package com.tjr.springboot.service;
 
+import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 
 import java.util.Date;
@@ -26,7 +27,9 @@ public class SayHelloService {
     public void haha520() {
         System.out.println("haha520");
     }
+
     public void happy520(){
         System.out.println("520,我爱你");
     }
+
 }
